@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Storage Cleaner App
 
 A Flutter application to help clean and manage device storage on Android.
@@ -36,3 +37,6 @@ This is a basic scaffold of the app with empty screen placeholders and navigatio
 - Implement file categorization and selection
 - Add cleanup animation and success metrics
 - Implement device storage API integration
+=======
+# nimo
+>>>>>>> d2d26b4b3d93a1db22bad1071b442a70b81e1596
